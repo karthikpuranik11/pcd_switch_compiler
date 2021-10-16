@@ -23,3 +23,8 @@ Using lex/yacc implement a parser for managing the `switch` statement in a simpl
 
     ```>>> a.exe < input.txt```
  
+Contributors
+* CSE18U001 - Adeep Hande
+* CSE18U013 - Karthik Puranik
+* CSE18U015 - Konthala Yasaswini
+* CSE18U017 - Akhil Gupta
