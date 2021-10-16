@@ -16,10 +16,12 @@ Using lex/yacc implement a parser for managing the `switch` statement in a simpl
     * `lex.yy.c`
     * `y.tab.c`
     * `y.tab.h`
-3.Give permissions to the `exe.sh` file if you get the message `exe.sh permission denied`:
+  
+3. Give permissions to the `exe.sh` file if you get the message `exe.sh permission denied`:
     
     ```>>> chmod +x ./exe.sh ```
-3. Run the parser and give it as input one of the files:
+    
+4. Run the parser and give it as input one of the files:
 
     ```>>> a.exe < input.txt```
  
